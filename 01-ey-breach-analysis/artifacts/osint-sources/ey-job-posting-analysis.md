@@ -1,6 +1,9 @@
 # How Job Postings Become OSINT for Threat Actors
 Prepared by: Caitlin Curran  
 28 August 2026
+
+**Tags:** OSINT, Threat Intelligence, GRC, SOC Analysis, Reconnaissance, Supply Chain Risk
+
 ## Introduction
 Job postings provide an oft-overlooked source of organizational intelligence. Because hiring teams want to attract candidates who have already used the tools required for the position, they often unintentionally disclose platforms that are in use. Due to this tendency, attackers often analyze job postings as part of their reconnaissance activities.
 
