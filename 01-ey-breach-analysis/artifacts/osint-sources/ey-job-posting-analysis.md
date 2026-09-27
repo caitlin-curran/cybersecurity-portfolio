@@ -30,7 +30,7 @@ An attacker can gain a wealth of actionable intelligence from tooling disclosure
 		- This presents a significant supply-chain exposure that attackers can leverage during reconnaissance.
 	- ServiceNow has the potential to provide an attacker with access to the entire operational environment.
 
-This combination of tools provides an attacker with several potential weak points that could be exploited to gain entry.
+This combination of tools provides an attacker with several potential weak points that could be exploited to gain entry:
 
  - ServiceNow integrations
  - SIEM ingestion pipelines
